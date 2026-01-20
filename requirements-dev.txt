@@ -1,4 +1,4 @@
-Authlib==0.14.3
+Authlib==1.6.6
 boto3==1.17.85
 botocore==1.20.85
 certifi==2020.4.5.1
@@ -28,5 +28,5 @@ six==1.14.0
 Sphinx==3.5.4
 sphinx-book-theme==0.1.0
 splunk-sdk==1.6.12
-urllib3==1.26.5
+urllib3==2.6.3
 validators==0.14.3
